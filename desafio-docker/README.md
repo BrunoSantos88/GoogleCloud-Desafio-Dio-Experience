@@ -18,9 +18,10 @@ Gostaria de ter emplementado o trafeik como proxy reverso, mais deixa para proxi
 
 Uma dica caso user EFS da AWS .
 
+Crie 10 replicas docker service httpd 
+usando volume montado no servidor nfs
 sudo mount -t nfs4 IP:/ /var/lib/docker/volumes/app/_data
-
-Boa Sorte!
+conectando endpoint no banco de dados rds.
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/91704169/181070722-2e8bb88c-a319-4e9a-89fa-32c7aa5a4090.png" />
