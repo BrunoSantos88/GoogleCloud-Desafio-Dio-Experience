@@ -1,6 +1,6 @@
-# BOOOTCAMP LINUX EXPERIENCE
+# BOOOTCAMP DEVOPS DIO
 
-Começando bootcamp na Dio.Primeiro repositorio!
+Começando bootcamp na Dio. Primeiro repositorio!
 Esse bootcamp foi desafiador.
 
 Tive que encontrar um meio de usar o EFS para conectar 3 instancias, nao foi facil.
