@@ -27,7 +27,6 @@ ________________________________________________________________________________
 <p align="left">
   <a href="mailto:brunosantosc1@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
-
   <a href="https://www.linkedin.com/in/brunosantos88" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a> 
   
@@ -38,7 +37,6 @@ ________________________________________________________________________________
 <div style="display: inline_block"><br/>
 	<code><img alt="Ed-Python" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
 	<code><img alt="Ed-linux" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></code>
-	<code><img alt="Ed-Bash" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /></code>
 	<code><img alt="Ed-mqsl" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></code>
 </code>
 	<code><img alt="Ed-Grafana" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg" /></code>
