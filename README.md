@@ -27,6 +27,7 @@ px" align="rigth" alt="Dio">
 	<code><img alt="Ed-Grafana" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg" /></code>
 	<code><img alt="docker" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" /></code>
 	<code><img alt="terraform" height="45" width="40" src="https://user-images.githubusercontent.com/91704169/190546385-e769a76d-f66b-4a68-aae8-2b4a159284be.png" /></code>
+	<code><img alt="aws" height="45" width="40" src="https://user-images.githubusercontent.com/91704169/191869566-c7d26b7e-d50f-487e-a2b8-0f9580c35004.png" /></code>
 
 
 </div>
