@@ -12,7 +12,7 @@ DevOps na Nuvem com Google Cloud Plataform (GCP).
 <img src="https://user-images.githubusercontent.com/91704169/191581430-1fa4aa30-61f4-444d-a0b9-ef42fbe746de.png" min-width="200px" max-width="200px" width="200
 px" align="left" alt="Devops-Dio">
 
-<img src="https://user-images.githubusercontent.com/91704169/191858832-7f7a44fa-6f38-4ae9-871c-d9fccc8ab5f8.png" min-width="500px" max-width="500px" width="500
+<img src="https://user-images.githubusercontent.com/91704169/191858832-7f7a44fa-6f38-4ae9-871c-d9fccc8ab5f8.png" min-width="600px" max-width="600px" width="600
 px" align="rigth" alt="Dio">
 
  </div>
