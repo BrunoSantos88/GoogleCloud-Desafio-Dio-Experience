@@ -18,3 +18,17 @@ px" align="center" alt="Computador illustration">
   
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
+
+___________________________________________________________________________________________________________________________________________________
+💌 Entre em contato comigo :) // contact me ⤵
+</p>
+
+<p align="left">
+  <a href="mailto:brunosantosc1@gmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
+
+  <a href="https://www.linkedin.com/in/brunosantos88" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a> 
+       
+
+
