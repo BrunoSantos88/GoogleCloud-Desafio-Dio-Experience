@@ -21,17 +21,6 @@ px" align="rigth" alt="Dio">
 
 
 ___________________________________________________________________________________________________________________________________________________
-💌 Entre em contato comigo :) // contact me ⤵
-</p>
-
-<p align="left">
-  <a href="mailto:brunosantosc1@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
-  <a href="https://www.linkedin.com/in/brunosantos88" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a> 
-  
-  
-_________________________________________________________________________________________________________________________________________________________
 </div>
 <div style="display: inline_block"><br/>
 	<code><img alt="Ed-Python" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
@@ -51,3 +40,14 @@ ________________________________________________________________________________
 	<code><img alt="Ed-Grafana" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg" /></code>
 
 </div>
+___________________________________________________________________________________________________________________________________________________
+💌 Entre em contato comigo :) // contact me ⤵
+</p>
+
+<p align="left">
+  <a href="mailto:brunosantosc1@gmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
+  <a href="https://www.linkedin.com/in/brunosantos88" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a> 
+  
+  
