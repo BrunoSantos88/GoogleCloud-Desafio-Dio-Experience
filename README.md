@@ -28,7 +28,7 @@ px" align="rigth" alt="Dio">
 	<code><img alt="docker" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" /></code>
 	<code><img alt="terraform" height="45" width="40" src="https://user-images.githubusercontent.com/91704169/190546385-e769a76d-f66b-4a68-aae8-2b4a159284be.png" /></code>
 	<code><img alt="kubernetes" height="40" width="50" src="https://user-images.githubusercontent.com/91704169/191869412-616913e8-d2e7-49dd-b9f3-78dea6c513f5.png" /></code>
-	<code><img alt="gcp" height="45" width="50" src="https://user-images.githubusercontent.com/91704169/191870232-065456b5-5987-47d6-8216-ef4e090596a1.png" /></code>
+	<code><img alt="gcp" height="45" width="40" src="https://user-images.githubusercontent.com/91704169/191870232-065456b5-5987-47d6-8216-ef4e090596a1.png" /></code>
 
 </div>
 ___________________________________________________________________________________________________________________________________________________
