@@ -20,13 +20,13 @@ px" align="rigth" alt="Dio">
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 
-	<img alt="Ed-Python" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-	<img alt="Ed-linux" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> 
-	<img alt="Ed-mqsl" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-	<img alt="docker" height="45" width="35" src="https://user-images.githubusercontent.com/91704169/191870669-bafd726c-08e9-4599-ab40-86ef43a9f973.png" /> 
-	<img alt="terraform" height="45" width="40" src="https://user-images.githubusercontent.com/91704169/190546385-e769a76d-f66b-4a68-aae8-2b4a159284be.png" /> 
-	<img alt="kubernetes" height="40" width="40" src="https://user-images.githubusercontent.com/91704169/191870517-db3bd422-fd43-499b-853e-c4028cde474d.png" />
-	<img alt="gcp" height="35" width="40" src="https://user-images.githubusercontent.com/91704169/191870232-065456b5-5987-47d6-8216-ef4e090596a1.png" />
+<img align="center" alt="Rafa-Js" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="center" alt="Rafa-Js" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" />
+<img align="center" alt="Rafa-Js" height="50" width="55" src="https://user-images.githubusercontent.com/91704169/190546385-e769a76d-f66b-4a68-aae8-2b4a159284be.png" />
+<img align="center" alt="Rafa-Js" height="40" width="55" src="https://user-images.githubusercontent.com/91704169/190657188-bf6656a4-b6ca-4106-8572-693e6011e07c.png"/>
+<img align="center" alt="Rafa-Js" height="40" width="55" src="https://user-images.githubusercontent.com/91704169/190657733-67a03b5c-ad56-4b71-83ed-ec4a01cbb7fc.png"/>
+<img align="center" alt="Rafa-Js" height="50" width="50" src="https://user-images.githubusercontent.com/91704169/190658143-c3ea6b74-5909-4bc9-8cdc-5b34ee9f8819.png"/>
+<img align="center" alt="Rafa-Js" height="45" width="50" src="https://user-images.githubusercontent.com/91704169/191870517-db3bd422-fd43-499b-853e-c4028cde474d.png"/>
 
 ___________________________________________________________________________________________________________________________________________________
 
