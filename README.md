@@ -20,9 +20,9 @@ px" align="rigth" alt="Dio">
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 </div>
-	<code><img alt="Ed-Python" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
-	<code><img alt="Ed-linux" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></code>
-	<code><img alt="Ed-mqsl" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></code>
+	<code><img alt="Ed-Python" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+	<code><img alt="Ed-linux" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+	<code><img alt="Ed-mqsl" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 	<code><img alt="docker" height="45" width="35" src="https://user-images.githubusercontent.com/91704169/191870669-bafd726c-08e9-4599-ab40-86ef43a9f973.png" /></code>
 	<code><img alt="terraform" height="45" width="40" src="https://user-images.githubusercontent.com/91704169/190546385-e769a76d-f66b-4a68-aae8-2b4a159284be.png" /></code>
 	<code><img alt="kubernetes" height="40" width="40" src="https://user-images.githubusercontent.com/91704169/191870517-db3bd422-fd43-499b-853e-c4028cde474d.png" /></code>
