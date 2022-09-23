@@ -19,16 +19,15 @@ px" align="rigth" alt="Dio">
   
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
-</div>
-	<img alt="Ed-Python" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> </p>
-	<img alt="Ed-linux" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> </p>
-	<img alt="Ed-mqsl" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> </p>
-	<img alt="docker" height="45" width="35" src="https://user-images.githubusercontent.com/91704169/191870669-bafd726c-08e9-4599-ab40-86ef43a9f973.png" /> </p>
-	<img alt="terraform" height="45" width="40" src="https://user-images.githubusercontent.com/91704169/190546385-e769a76d-f66b-4a68-aae8-2b4a159284be.png" /> </p>
-	<img alt="kubernetes" height="40" width="40" src="https://user-images.githubusercontent.com/91704169/191870517-db3bd422-fd43-499b-853e-c4028cde474d.png" /> </p>
-	<img alt="gcp" height="35" width="40" src="https://user-images.githubusercontent.com/91704169/191870232-065456b5-5987-47d6-8216-ef4e090596a1.png" /> </p>
 
-</div>
+	<img alt="Ed-Python" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+	<img alt="Ed-linux" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> 
+	<img alt="Ed-mqsl" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+	<img alt="docker" height="45" width="35" src="https://user-images.githubusercontent.com/91704169/191870669-bafd726c-08e9-4599-ab40-86ef43a9f973.png" /> 
+	<img alt="terraform" height="45" width="40" src="https://user-images.githubusercontent.com/91704169/190546385-e769a76d-f66b-4a68-aae8-2b4a159284be.png" /> 
+	<img alt="kubernetes" height="40" width="40" src="https://user-images.githubusercontent.com/91704169/191870517-db3bd422-fd43-499b-853e-c4028cde474d.png" />
+	<img alt="gcp" height="35" width="40" src="https://user-images.githubusercontent.com/91704169/191870232-065456b5-5987-47d6-8216-ef4e090596a1.png" />
+
 ___________________________________________________________________________________________________________________________________________________
 
 💌 Entre em contato comigo :) // contact me ⤵
