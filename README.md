@@ -1,6 +1,6 @@
 # Cloud-DevOps-Experience-DIO
 
-<img align="center" alt="Rafa-Js" height="45" width="50" src=""/>       
+<img align="center" alt="Rafa-Js" height="500" width="500" src="https://user-images.githubusercontent.com/91704169/192374045-d748bbff-5a35-42b4-859d-3220f953cdc0.png"/> 
 <img align="center" alt="Rafa-Js" height="45" width="50" src=""/>       
 <img align="center" alt="Rafa-Js" height="45" width="50" src=""/>       
 <img align="center" alt="Rafa-Js" height="45" width="50" src=""/>       
