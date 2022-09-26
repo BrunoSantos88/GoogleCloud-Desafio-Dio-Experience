@@ -1,7 +1,7 @@
 # Cloud-DevOps-Experience-DIO
 
 <img align="center" alt="kubectl" height="800" width="1200" src="https://user-images.githubusercontent.com/91704169/192374045-d748bbff-5a35-42b4-859d-3220f953cdc0.png"/> 
-<img align="center" alt="Rafa-Js" height="45" width="50" src=""/>       
+<img align="center" alt="Rafa-Js" height="800" width="1200" src="https://user-images.githubusercontent.com/91704169/192374145-363d9ffc-ebbb-497d-ab45-6c1b71932977.png"/>       
 <img align="center" alt="Rafa-Js" height="45" width="50" src=""/>       
 <img align="center" alt="Rafa-Js" height="45" width="50" src=""/>       
 
