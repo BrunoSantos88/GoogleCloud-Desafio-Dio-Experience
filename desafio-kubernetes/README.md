@@ -1,24 +1,9 @@
 # Cloud-DevOps-Experience-DIO
 
-Prepare-se Para a Jornada (Onboarding),
-Conhecendo o Sistema Operacional Linux,
-Desmistificando o Docker,
-Kubernetes do Zero à Produção,
-Arquiteturas de Aplicações e CI/CD na Prática,
-Google Cloud Foundations,
-DevOps na Nuvem com Google Cloud Plataform (GCP).
-
-
-<img src="https://user-images.githubusercontent.com/91704169/191581430-1fa4aa30-61f4-444d-a0b9-ef42fbe746de.png" min-width="200px" max-width="200px" width="200
-px" align="left" alt="Devops-Dio">
-
-<img src="https://user-images.githubusercontent.com/91704169/191858832-7f7a44fa-6f38-4ae9-871c-d9fccc8ab5f8.png" min-width="600px" max-width="600px" width="600
-px" align="rigth" alt="Dio">
-
- </div>
-  
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-
+<img align="center" alt="kubectl" height="800" width="1200" src="https://user-images.githubusercontent.com/91704169/192374045-d748bbff-5a35-42b4-859d-3220f953cdc0.png"/> 
+<img align="center" alt="Rafa-Js" height="800" width="1200" src="https://user-images.githubusercontent.com/91704169/192374145-363d9ffc-ebbb-497d-ab45-6c1b71932977.png"/>       
+<img align="center" alt="tela" height="800" width="1200" src="https://user-images.githubusercontent.com/91704169/192374100-2f8a5eae-4a11-4704-b5fa-b69678eb03f1.png"/>       
+<img align="center" alt="docker hub" height="800" width="1200" src="https://user-images.githubusercontent.com/91704169/192373851-f691130c-81b6-4a8f-81ae-f3241652320e.png"/>       
 
 <p align="left">
        
