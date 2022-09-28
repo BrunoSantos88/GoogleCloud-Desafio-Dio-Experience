@@ -5,9 +5,9 @@ docker build -t database:latest database/.
 
 echo "criando tags imagens......"
 
-docker tag backend:latest brunosantos88/backend
+docker tag backend:latest  us.gcr.io/bootcamp-363315/backend
 
-docker tag database:latest brunosantos88/database
+docker tag database:latest us.gcr.io/bootcamp-363315/database
 
 echo "realiazando push da imagens ...."
 
