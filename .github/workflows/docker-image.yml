@@ -34,7 +34,7 @@ jobs:
 
       # push image to registry
       - name: Push Docker image
-        run: docker push database
+        run: docker push database:latest
       # push image to registry
       - name: Push Docker image
-        run: docker push backend 
+        run: docker push backend:latest
