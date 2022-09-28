@@ -28,9 +28,9 @@ jobs:
 
       # build image
       - name: Build Docker image
-        run: docker build -t backend:latest backend/ .
+        run: docker build -t backend:latest backend/.
       - name: Build Docker image
-        run: docker build -t database:latest backend/ .
+        run: docker build -t database:latest backend/.
 
       # push image to registry
       - name: Push Docker image
