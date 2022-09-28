@@ -28,11 +28,13 @@ jobs:
 
       # build image
       - name: Build Docker image
-         docker build -t backend:latest backend/.
-         docker build -t database:latest database/.
+         docker build -t backend:latest desafio-kubernetes/database/Latest .
+         docker build -t database:latest desafio-kubernetes/databasedatabase:latest/ .
 
       # push image to registry
       - name: Push Docker image
-        run: docker push $IMAGE_NAME
+        run: docker push backend:latest 
+      - name: Push Docker image
+        run: docker push database:latest
 
       # deploy image# deploy container image to GKE
