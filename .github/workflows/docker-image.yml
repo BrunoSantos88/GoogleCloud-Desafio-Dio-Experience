@@ -28,13 +28,8 @@ jobs:
 
       # build image
       - name: Build Docker image
-         docker build -t backend:latest .
-         docker build -t database:latest .
+        run: docker build -t $IMAGE_NAME .
 
       # push image to registry
       - name: Push Docker image
-        run: docker push backend:latest 
-      - name: Push Docker image
-        run: docker push database:latest
-
-      # deploy image# deploy container image to GKE
+        run: docker push $IMAGE_NAME
