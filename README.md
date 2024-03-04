@@ -19,20 +19,6 @@ px" align="rigth" alt="Dio">
   
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
-
-<p align="left">
-       
-<img align="center" alt="Rafa-Js" height="45" width="50" 
-<img align="center" alt="Rafa-Js" height="60" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
-<img align="center" alt="Rafa-Js" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="center" alt="Rafa-Js" height="45" width="50" src="https://user-images.githubusercontent.com/91704169/191870517-db3bd422-fd43-499b-853e-c4028cde474d.png"/>
-<img align="center" alt="Rafa-Js" height="45" width="50" src="https://user-images.githubusercontent.com/91704169/191870232-065456b5-5987-47d6-8216-ef4e090596a1.png"/>
-<img align="center" alt="Rafa-Js" height="45" width="50" 
-<img align="center" alt="Rafa-Js" height="50" width="55" 
-<img align="center" alt="Rafa-Js" height="60" width="55" src="https://user-images.githubusercontent.com/91704169/191961752-ad1d9b23-fa5a-4ccf-bbf3-0689bf54b0bf.png" />
-<img align="center" alt="Rafa-Js" height="45" width="45" src="https://private-user-images.githubusercontent.com/91704169/288270720-b3c16545-2fd3-4d27-8cb4-03c8544b507c.png?
-
-
 ___________________________________________________________________________________________________________________________________________________
 
 💌 Entre em contato comigo :) // contact me ⤵
